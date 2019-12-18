@@ -1,12 +1,4 @@
 [
-  {
-    "code": "Lista de precios\n* Sin descuento - ** Se debe pedir solo\nPRECIOS DE PRUEBAS DE LABORATORIO\nCodigo      Cod. Fact                             Prueba                                Precio Globulos Rojos",
-    "name": "",
-    "price": "",
-    "currency": ""
-  },
-  { "code": "", "name": "", "price": "", "currency": "" },
-  { "code": "", "name": "", "price": "", "currency": "" },
   { "code": "H102", "name": "ERITROCITOS", "price": 5.1, "currency": "US$" },
   { "code": "H101", "name": "HEMOGLOBINA", "price": 5.1, "currency": "US$" },
   { "code": "H100", "name": "HEMATOCRITO", "price": 5.1, "currency": "US$" },
